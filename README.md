@@ -34,7 +34,12 @@ To run this app on your local machine, follow these steps:
 The app has customizable range values for BMI categories. To modify these values, open lib/constants.dart and change the values of underweightRange, normalRange, overweightRange, and obeseRange according to your desired values.
 
 ## 📷 Screenshots
-Screenshot 1 Screenshot 2
+
+![Screenshot (1)](https://user-images.githubusercontent.com/115361691/230543993-75e0a318-9f9b-4655-8a43-c9a91a0b226e.png)
+
+![Screenshot (2)](https://user-images.githubusercontent.com/115361691/230544049-4cd1d238-e291-4fb8-b4ce-11d1265a69a2.png)
+
 
 ## 🤝 Contributing
 Contributions to this project are always welcome. If you have any suggestions or improvements, please submit a pull request or open an issue on this repository.
+
